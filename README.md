@@ -6,10 +6,7 @@
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 
 ### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
-
-<img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/fn.jpg">
-
+ 
 ## [See the Tutorial of this Project](https://youtu.be/GS_ylghUtLQ)
 
 ## Usage:-
